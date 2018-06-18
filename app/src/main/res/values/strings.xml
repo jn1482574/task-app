@@ -6,4 +6,19 @@
     <string name="str_TaskDone">Task Done</string>
     <string name="str_New">New</string>
     <string name="str_ShowAll">Show All</string>
+
+    <!-- New Task -->
+    <string name="str_Cancel">Cancel</string>
+    <string name="str_Save">Save</string>
+    <string name="str_Done">Done</string>
+    <string name="str_Long_Description">Long Description</string>
+    <string name="str_Short_Description">Short Description</string>
+    <string name="str_Percentage">%</string>
+    <string name="int_Percentage">0</string>
+
+    <!-- TAsk List -->
+    <string name="str_ToDo">To Do</string>
+    <string name="str_Doing">Doing</string>
+    <string name="str_All">All</string>
+
 </resources>
